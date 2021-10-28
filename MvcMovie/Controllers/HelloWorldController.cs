@@ -21,5 +21,9 @@ namespace MvcMovie.Controllers
         {
             return HtmlEncoder.Default.Encode($"Hello {name}, NumTimes is: {numTimes}");
         }
+        public string Welcome3(string name, int id = 1)
+        {
+            return HtmlEncoder.Default.Encode($"Hello: {name}, Id: {id}");
+        }
     }
 }
