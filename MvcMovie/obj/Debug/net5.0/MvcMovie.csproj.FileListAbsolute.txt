@@ -38,3 +38,5 @@ C:\Users\Ajavier\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\ref\MvcMovie.dl
 C:\Users\Ajavier\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
 C:\Users\Ajavier\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
 C:\Users\Ajavier\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+C:\Users\Ajavier\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\Ajavier\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
